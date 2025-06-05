@@ -1,5 +1,4 @@
-# ASSIGNMENT-1-INTERNET-PROGRAMMINg
-'''html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
